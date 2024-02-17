@@ -25,8 +25,7 @@
 - Mysql, 
 - Postgres, 
 - Memcached, 
-- Redis, 
-- PHPUnit
+- Redis,
 
 
 ## { 😎 Тесты }
