@@ -2,7 +2,7 @@
 	<img style="width: 30px;" src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" alt="createsite2016"/>
 </h3>
 <h1 align="center">я FullStack разработчик</h1>
-<img style="display: block; margin-left: auto; margin-right: auto; width: 70%;" src="https://1c-helpdesk.ru/wp-content/uploads/developer-1s.gif"/>
+<img style="display: block; margin-left: auto; margin-right: auto; width: 70%;" src="https://php-code.ru/img/developer.gif"/>
 
 ## { Обо мне }
 
