@@ -60,9 +60,9 @@
 
 <h3 align="left">Связь со мной:</h3>
 <p align="left">
-	<a href="https://t.me/hasMembership" target="_blank">Телеграмм</a><br>
-	<a href="https://php-code.ru" target="_blank">Мой сайт</a><br>
-	<a href="https://krasnodar.hh.ru/resume/4677bf75ff052170300039ed1f305a396b7166" target="_blank">Резюме на HH</a><br>
+	<a href="https://t.me/hasMembership" target="blank">Телеграмм</a><br>
+	<a href="https://php-code.ru" target="blank">Мой сайт</a><br>
+	<a href="https://krasnodar.hh.ru/resume/4677bf75ff052170300039ed1f305a396b7166" target="blank">Резюме на HH</a><br>
 </p>
 
 ## ___
